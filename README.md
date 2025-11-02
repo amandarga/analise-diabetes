@@ -66,25 +66,30 @@ Desenvolver um sistema completo de análise de dados de saúde que:
 1. **Clone o repositório:**
 ```bash
 git clone [https://github.com/amandarga/analise-diabetes.git](https://github.com/amandarga/analise-diabetes.git)
-cd analise-diabetes```
+cd analise-diabetes
+```
 
 2. **Crie e ative um ambiente virtual:**
 ```bash
 python -m venv venv
-venv\Scripts\activate```
+venv\Scripts\activate
+```
 
 3. **Instale as dependências:**
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 4. **Execute o Streamlit:**
 ```bash
-streamlit run diabetes_streamlit.py```
+streamlit run diabetes_streamlit.py
+```
 
 5. **Acesse a aplicação:**
 Abra o navegador e acesse `http://localhost:8501` para ver a aplicação.
 
 ## 📜 Dataset
+
 Fonte: Scikit-learn Diabetes Dataset
 
 442 pacientes
